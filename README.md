@@ -78,7 +78,7 @@ To deploy and run this project, follow these steps. For more detailed instructio
 ### Deployment Process
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/trivikramm/serverless-image-processing-app.git
+   git clone https://github.com/karthik6033/serverless-image-processing-app.git
    cd serverless-image-processing-app
    ```
 
